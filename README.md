@@ -106,7 +106,7 @@ The game can also be launched manually from Command Prompt with:
 
 ```bat
 "C:\Program Files (x86)\Java\jdk1.6.0_45\bin\appletviewer.exe" -J-Djava.security.policy==nfm.policy Game_Scaled.html
-
+```
 ## NOTE
 
 This was a special project for me, being a big fan of this game, but always being too scared to try it due to
