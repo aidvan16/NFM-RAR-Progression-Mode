@@ -109,8 +109,7 @@ The game can also be launched manually from Command Prompt with:
 ```
 ## NOTE
 
-This was a special project for me, being a big fan of this game, but always being too scared to try it due to
-the fear of viruses, to now getting the chance to playing and then making something as crazy as this game.
+This was a special project for me, being a big fan of this game, to now getting the chance to playing and then making something as crazy as this game.
 
 I hope you have a fun time playing it as much as I had creating it :)
 
