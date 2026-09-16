@@ -79,7 +79,7 @@ Do not rename or move these folders. The game loads resources from these relativ
 
 - Windows
 - Java Development Kit 6 (JDK 6) [Download Java 6 from the official Oracle archive](https://www.oracle.com/java/technologies/javase-java-archive-javase6-downloads.html)
-- Tested with Java 6 Update 45 (`jdk1.6.0_45`) https://www.oracle.com/java/technologies/javase-java-archive-javase6-downloads.html
+- Tested with Java 6 Update 45 (`jdk1.6.0_45`) 
 
 This game uses the legacy Java Applet Viewer included with JDK 6.
 
