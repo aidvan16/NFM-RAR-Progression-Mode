@@ -1,0 +1,18 @@
+# Backup source / compiled files
+ControlBackup.class
+ControlBackup.java
+ControlSecondBackup.class
+GameSparker_Old.java
+MadnessBackup.java
+xtGraphicsOld.class
+xtGraphicsOld2.java
+xtGraphicsOld3.java
+
+# Local shortcut
+NFM 2 (RaR) - Shortcut.lnk
+
+# Local save / progression data
+carsunlocked.dat
+unlocked.dat
+usercar.dat
+gameprfact.dat
